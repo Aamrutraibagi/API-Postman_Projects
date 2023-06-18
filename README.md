@@ -21,5 +21,6 @@ https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth
 https://documenter.getpostman.com/view/611814/2s93Y5Pewv
 
 # Newman Report
+![soap](https://github.com/Aamrutraibagi/API-Postman_Projects/assets/120326509/2c5a43d4-b962-4047-98d8-b2c033444f3a)
 
-![Soap Report](https://github.com/Aamrutraibagi/API-Postman_Projects/assets/120326509/a663e711-2470-4842-88c0-9ffe18519cee)
+
